@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Systemd GUI Dashboard
+Comment=GUI dashboard to view and control systemd services
+Exec=systemd-gui-dashboard
+Icon=utilities-system-monitor
+Terminal=false
+Categories=System;Settings;Administration;
+StartupNotify=true
